@@ -1,4 +1,3 @@
-<img align="right" width="150" src="https://count.getloli.com/get/@:felipe0c4?theme=rule34">
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Felipe0c4&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Felipe!
